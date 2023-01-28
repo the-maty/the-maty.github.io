@@ -319,5 +319,10 @@ footer .copyright span{
     .home .content p{
         font-size: 1.5rem;
     }
+    
+    .title{
+        padding-top: 20%;
+        padding-bottom: 3%;
+    }
 
 }
